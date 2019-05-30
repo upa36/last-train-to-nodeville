@@ -1,0 +1,23 @@
+{
+  "name": "last-train-to-nodeville",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackeducation/last-train-to-nodeville.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stackeducation/last-train-to-nodeville/issues"
+  },
+  "homepage": "https://github.com/stackeducation/last-train-to-nodeville#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
